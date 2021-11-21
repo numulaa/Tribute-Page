@@ -1,0 +1,100 @@
+body {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  margin: 0;
+  text-align: center;
+  line-height: 2;
+}
+h1 {
+margin: auto;
+color: #EEEBDD;
+}
+h3 {
+  margin: auto;
+}
+ul {
+text-align: left;
+
+}
+hr {
+  width: 60%;
+}
+
+/****************CLASS TAG*****************/
+.responsive-image {
+  max-width: 100%;
+  height: auto;
+}
+.h3-top {
+  color: #EEEBDD;
+}
+.top-container {
+  background-color: #630000;
+  position: relative;
+  margin: 0;
+  padding: 5px;
+}
+.desc{
+display: block;
+margin-right: 10em;
+width: 40%;
+text-align: justify;
+}
+.quote-1 {
+  margin: auto;
+  color: #EEEBDD;
+  width: 40%;
+  margin: 30px auto;
+}
+.middle-container {
+  display: block;
+
+}
+.bottom-container {
+  background-color: #EEEBDD;
+  padding-top: 20px;
+  position: relative;
+  height: 650px;
+  margin: 0;
+  text-align: center;
+}
+.love-story {
+  width: 60%;
+  margin: auto;
+}
+/****************ID TAG*****************/
+
+#img-div {
+display: inline-block;
+width: 40%;
+right: 90px;
+top: 90px;
+}
+#image {
+  display: block;
+  margin-top: 5em;
+}
+#img-caption {
+display: block;
+}
+
+#second-container {
+  display: flex;
+  flex-direction: row-reverse;
+  text-align: center;
+  background-color: #EEEBDD;
+  padding-top: 10px;
+  padding-right: 30px;
+}
+
+#tribute-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#habibie-ainun {
+  display: inline-block;
+  right: 70px;
+  top: 90px;
+}
